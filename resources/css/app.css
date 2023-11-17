@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.validate-error-span{
+    color: red;
+    font-size: 10px;
+    height: 10px;
+    /* background-color: rebeccapurple; */
+}
